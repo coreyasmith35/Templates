@@ -1,2 +1,0 @@
-model_checkpoint_path: "CNNMNISTModel.ckpt"
-all_model_checkpoint_paths: "CNNMNISTModel.ckpt"
