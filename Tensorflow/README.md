@@ -1,8 +1,8 @@
 # Tensorflow Basic
 Assortment of examples of basic machine learning algorithms written Tensorflow.
 
-### Examples 
-- Linear Regression
+### Examples
+- [Linear Regression](/Linear_Regression)
 - Multiple Linear Regression
 - Polynomial Regression
 - Logistic Regression
