@@ -2,15 +2,15 @@
 Assortment of examples of basic machine learning algorithms written Tensorflow.
 
 ### Examples
-- [Linear Regression](/Linear_Regression)
-- Multiple Linear Regression
-- Polynomial Regression
-- Logistic Regression
-- Support Vector Machine
-- Kernel Support Vector Machine
-- K-Means
-- K-Nearest Neighbors
-- Tensorboard
+- [Linear Regression](/Tensorflow/Linear_Regression)
+- [Multiple Linear Regression](/Tensorflow/Multiple_Linear_Regression)
+- [Polynomial Regression](/Tensorflow/Polynomial_Regression)
+- [Logistic Regression](/Tensorflow/Logistic_Regression)
+- [Support Vector Machine](/Tensorflow/SVM)
+- [Kernel Support Vector Machine](/Tensorflow/Kernel_SVM)
+- [K-Means](/Tensorflow/K_Means)
+- [K-Nearest Neighbors](/Tensorflow/K_Nearest_Neighbors)
+- [Tensorboard](/Tensorflow/Tensorboard)
 
 ### Graphs:
 ##### Linear Regression
