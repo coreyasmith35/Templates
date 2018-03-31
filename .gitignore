@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+.idea
+readonly
+__pycache__
+*.pyc
+*.tgz
+*.zip
+*.pickle
